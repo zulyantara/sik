@@ -1,0 +1,61 @@
+body, html {
+    margin: 0 auto;
+    background: #f1f1f1;
+}
+
+body {
+    border-top: 5px solid #93c3a9;
+}
+
+.tara-header {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.tara-body {
+    margin-top: 10px;
+}
+
+.tara-logo {
+    float: left;
+    text-decoration: none;
+}
+
+.uk-navbar {
+    background: #fff;
+    color: #656565;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    background-image: linear-gradient(to bottom,#ffffff,#fafafa);
+}
+
+.uk-navbar-nav>li.uk-active>a {
+    background-color: #93c3a9;
+    color: #fff;
+}
+
+.uk-button {
+    background-color: #93c3a9;
+    color: #fff;
+}
+
+.uk-button:hover {
+    background-color: #656565;
+    color: #fff; 
+}
+
+.uk-dropdown-navbar {
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #fff;
+    border-radius: 2px;
+}
+
+.uk-form-horizontal .uk-form-label-tara {
+    width: 400px;
+}
+
+.h1-zul {
+    font-family: 'Cinzel Decorative', cursive;
+}
